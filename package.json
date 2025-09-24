@@ -1,0 +1,23 @@
+{
+  "name": "grunt-vite",
+  "version": "0.0.1",
+  "description": "A grunt plugin to run vite.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coqsenpate/grunt-vite.git"
+  },
+  "keywords": [
+    "grunt",
+    "vite"
+  ],
+  "author": "Nicolas Leclerc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coqsenpate/grunt-vite/issues"
+  },
+  "homepage": "https://github.com/coqsenpate/grunt-vite#readme",
+  "peerDependencies": {
+    "grunt": ">=7.1.6"
+  }
+}
