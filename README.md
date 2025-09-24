@@ -2,7 +2,7 @@
 
 > Runs vite in grunt.
 
-This task directly sends the provided config to the build function of [vite](https://esbuild.github.io/) (which you must provide).
+This task directly sends the provided config to the build function of [vite](https://esbuild.github.io/) (which you can provide).
 
 ## Install
 
