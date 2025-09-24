@@ -1,6 +1,6 @@
 {
   "name": "grunt-vite",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A grunt plugin to run vite.",
   "main": "index.js",
   "repository": {
